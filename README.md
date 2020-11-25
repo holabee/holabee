@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 ### Cypress
 > **Uage : UI/UX automation tool**
 
-### ____wiki____
+
+### Wiki____ 
 > * [media query](https://github.com/holabee/2020/wiki/%5BCSS%5D-Media-Query)
