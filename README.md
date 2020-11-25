@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 
 ✨____wiki___✨
 > [media query](https://github.com/holabee/2020/wiki/%5BCSS%5D-Media-Query)
-
-
-🤔 I'm still considering how to update README.
-
