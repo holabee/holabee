@@ -15,18 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 👋
 
 -->
-
-# 2020 
-
-### Miniature
-> **Uage : UI kit**
-> - Web Accessibility
-> - Keyboard Support
-> - UI/UX Reference: Google > Material Design > [Components](https://material.io/components)
-
-### Cypress
-> **Uage : UI/UX automation tool**
-
-
-### Wiki____________ 
-> * [media query](https://github.com/holabee/2020/wiki/%5BCSS%5D-Media-Query)
