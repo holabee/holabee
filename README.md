@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-🦷 [2021ver](https://www.notion.so/holab/B-TIL-5acb204c8a654ec78e257f615bc3159b)
+🦷 [2021ver. Note](https://www.notion.so/holab/B-TIL-5acb204c8a654ec78e257f615bc3159b)
