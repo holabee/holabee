@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 👋
 
 -->
-
-🦷 [2021ver. Note](https://www.notion.so/holab/B-TIL-5acb204c8a654ec78e257f615bc3159b)
